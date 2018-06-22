@@ -17,7 +17,7 @@ This is a library and the most common way to use this library in particular is b
 ```xml
 <dependency>
   <groupId>life.qbic</groupId>
-  <artifactId>core-utils-lib</artifactId>
+  <artifactId>javafx-utils-lib</artifactId>
 </dependency>
 ```
 
