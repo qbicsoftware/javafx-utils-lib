@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>life.qbic</groupId>
 	<artifactId>javafx-utils-lib</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.1.0-SNAPSHOT</version>
 	<name>JavaFX Utilities Library</name>
 	<url>http://github.com/qbicsoftware/javafx-utils-lib</url>
 	<description>Library containing JavaFX-specific code.</description>
